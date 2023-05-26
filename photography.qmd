@@ -1,0 +1,23 @@
+---
+title: "Photography"
+format:
+  html:
+    theme: default
+    
+---
+In my free time I enjoy taking pictures of thing in my environment that bring me visual joy! 
+
+![Flowers on UCSB Campus](IMG_1655.jpg)
+
+![Homemade Pasta with Red Wine](IMG_1650.JPG)
+
+![Plant Propagation at the UCSB Green House](IMG_1659.JPG)
+
+![Salmon, Yellowtail, and Tuna roll from my favorite Sushi Resturant back at home](IMG_1657.JPG)
+
+![Edible Flowers from San Jose del Cabo](IMG_1661.JPG)
+
+![Ceviche](IMG_1660.JPG)
+
+
+

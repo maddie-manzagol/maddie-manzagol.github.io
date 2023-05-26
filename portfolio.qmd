@@ -1,0 +1,20 @@
+---
+title: "Portfolio"
+format:
+  html:
+    theme: default
+---
+
+Here are a few pieces from my undergrad that I am especially proud of! 
+
+Link to my final paper in ENVS 149: Food, Agriculture, and the Environment--I decided to write my paper on food waste within US grocery stores.
+
+[Paper on Food Waste](ENVS149FinalPaper1.pdf)
+
+Link to my final paper in HIST 4C: Modern Europe-- I wrote about race-induced oppression of Jamaican colonial subjects of the British Empire were subjected too. The paper was inspired from Andrea Levy’s novel "Small Island" as well as lecture content. 
+
+[Paper on Colonial Racism](SmallIslandEssay.pdf)
+
+Link to my final paper in ENVS 40: Critial Thinking--I explored the possibility of Rooftop Gardening as form of Green Infrastructure and Climate Mitigation
+
+[Paper on Rooftop Gardening](ENVS40ProjectPaper.pdf)

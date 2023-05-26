@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Maddie’s Page",
+    "title": "Welcome!",
     "section": "",
-    "text": "Hello, there!\nThanks for coming across my page! My name is Maddie Manzagol, I’m glad you’re here!\nHere’s a little bit about me…\nHey all! My name is Maddie Manzagol. In my area of study, I’ve really enjoyed learning about ecosystem health and sustainable management in terms of restoration and development. I’m becoming increasingly interested in the intersection between urban wildlife and human activity and what these interactions mean for urban planning. I would like to explore more about how communities can implement green infrastructure in a way that mitigates environmental burdens and enhances equity for both wildlife and all community demographics. In my free time, I enjoy hiking, trying new restaurants (especially sushi places), practicing capoeira, and spending quality time with friends and family.\nSome of my educational background:\nCurrently I am a college undergraduate at the University of California, Santa Barbara pursuing an Environmental Studies B.S. degree with a concentration in Ecology, Evolution, and Marine Biology. Prior to my undergrad, I attended Saratoga High School in the Bay Area where I received my diploma.\nMore of my content:\nGitHub: https://github.com/maddie-manzagol Linkedin: https://www.linkedin.com/in/madeline-manzagol/"
+    "text": "Hello, there!\nThanks for coming across my page! My name is Maddie Manzagol, I’m glad you’re here!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Here’s a little bit about me…\nHey all! My name is Maddie Manzagol. In my area of study, I’ve really enjoyed learning about ecosystem health and sustainable management in terms of restoration and development. I’m becoming increasingly interested in the intersection between urban wildlife and human activity and what these interactions mean for urban planning. I would like to explore more about how communities can implement green infrastructure in a way that mitigates environmental burdens and enhances equity for both wildlife and all community demographics. In my free time, I enjoy hiking, trying new restaurants (especially sushi places), practicing capoeira, and spending quality time with friends and family.\nSome of my educational background:\nCurrently I am a college undergraduate at the University of California, Santa Barbara pursuing an Environmental Studies B.S. degree with a concentration in Ecology, Evolution, and Marine Biology. Prior to my undergrad, I attended Saratoga High School in the Bay Area where I received my diploma."
+  },
+  {
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "Photography",
+    "section": "",
+    "text": "In my free time I enjoy taking pictures of thing in my environment that bring me visual joy!\n\n\n\nFlowers on UCSB Campus\n\n\n\n\n\nHomemade Pasta with Red Wine\n\n\n\n\n\nPlant Propagation at the UCSB Green House\n\n\n\n\n\nSalmon, Yellowtail, and Tuna roll from my favorite Sushi Resturant back at home\n\n\n\n\n\nEdible Flowers from San Jose del Cabo\n\n\n\n\n\nCeviche"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Here are a few pieces from my undergrad that I am especially proud of!\nLink to my final paper in ENVS 149: Food, Agriculture, and the Environment–I decided to write my paper on food waste within US grocery stores.\nPaper on Food Waste\nLink to my final paper in HIST 4C: Modern Europe– I wrote about race-induced oppression of Jamaican colonial subjects of the British Empire were subjected too. The paper was inspired from Andrea Levy’s novel “Small Island” as well as lecture content.\nPaper on Colonial Racism\nLink to my final paper in ENVS 40: Critial Thinking–I explored the possibility of Rooftop Gardening as form of Green Infrastructure and Climate Mitigation\nPaper on Rooftop Gardening"
   }
 ]
