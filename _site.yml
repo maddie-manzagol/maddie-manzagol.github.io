@@ -3,6 +3,6 @@ navbar:
   title: "My Website"
   left:
     - text: "Home"
-      href: index.html
+      href: index.docs
     - text: "About"
-      href: about.html
+      href: about.docs
